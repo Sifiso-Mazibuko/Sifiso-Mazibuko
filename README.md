@@ -6,13 +6,13 @@ https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifiso-mazibuko" alt="sifiso-mazibuko" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, Machine learning**
+- 🌱 I’m currently learning **Java, Machine learning**
 
-- 💬 Ask me about **Cloud computing**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **sifisom380@gmail.com**
 
-- ⚡ Fun fact **I think I'm a genius**
+- ⚡ Fun fact **I think I am smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
