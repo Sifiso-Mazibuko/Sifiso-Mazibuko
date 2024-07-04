@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sifiso Mazibuko</h1>
-<h3 align="center">A passionate for Machine Learning and Backend Development from South Africa</h3>
+<h3 align="center">A passionate for Mobile app and Backend Development from South Africa</h3>
 https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F
 
 
